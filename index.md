@@ -23,5 +23,5 @@ layout: home
 - [ラボ 1 - Copilot in PowerPoint でプレゼンテーションを最初から最後まで作成する](Instructions/Labs/Lab_01_Build_Presentation_PowerPoint.md)
 - [ラボ 2 - Copilot in Word を使用してドキュメントの下書き、改善、共有を行う](Instructions/Labs/Lab_02_Write_Document_Word.md)
 - [ラボ 3 - コラボレーションを最初から最後まで管理する](Instructions/Labs/Lab_03_Collaborate_with_Teams.md)
-- [ラボ 4 - Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上させる](Instructions/Labs/Lab_04_Boost_Productivity_Excel.md)
+- [ラボ 4 - Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上させる](Instructions/Labs/Lab_04_Boost_productivity_Excel.md)
 - [ラボ 5 - Copilot Chat を使用して面接を行う](Instructions/Labs/Lab_05_Unleash_Productivity_Copilot_Chat.md)
