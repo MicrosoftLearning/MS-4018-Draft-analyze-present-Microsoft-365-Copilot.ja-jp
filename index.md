@@ -20,9 +20,9 @@ layout: home
 ## 演習
 
 - [セットアップ](Instructions/Labs/Lab_00_setup.md)
-- [ラボ 1 - Copilot Chat を使用して面接試験に合格する](Instructions/Labs/Lab_05_Unleash_Productivity_Copilot_Chat.md)
-- [ラボ 2 - Copilot in PowerPoint を使用して、プレゼンテーションを最初から最後まで作成する](Instructions/Labs/Lab_01_Build_Presentation_PowerPoint.md)
-- [ラボ 3 - Copilot in Word を使用して、ドキュメントの下書き、改善、共有を行う](Instructions/Labs/Lab_02_Write_Document_Word.md)
-- [ラボ 4 - コラボレーションを最初から最後まで管理する](Instructions/Labs/Lab_03_Collaborate_with_Teams.md)
-- [ラボ 5 - Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上する](Instructions/Labs/Lab_04_Boost_productivity_Excel.md)
+- [ラボ 1 - Copilot Chat を使用して面接試験に合格する](Instructions/Labs/Lab_01_Unleash_Productivity_Copilot_Chat.md)
+- [ラボ 2 - Copilot in PowerPoint を使用して、プレゼンテーションを最初から最後まで作成する](Instructions/Labs/Lab_02_Build_Presentation_PowerPoint.md)
+- [ラボ 3 - Copilot in Word を使用して、ドキュメントの下書き、改善、共有を行う](Instructions/Labs/Lab_03_Write_Document_Word.md)
+- [ラボ 4 - コラボレーションを最初から最後まで管理する](Instructions/Labs/Lab_04_Collaborate_with_Teams.md)
+- [ラボ 5 - Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上する](Instructions/Labs/Lab_05_Boost_productivity_Excel.md)
 
