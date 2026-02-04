@@ -11,7 +11,7 @@ Teams で Copilot Chat を使用して、面接担当者とその役割に関す
 
 1. URL +++https://teams.microsoft.com+++ に移動して、Microsoft Teams を開きます。
 
-1. 画面の左側にある **Copilot Chat** アイコンを選択します。
+1. 画面の左側にある **[Copilot]** アイコンを選択します。
 
 1. 画面の上部にあるトグルが **[Web]** に設定されていることを確認します。
 
