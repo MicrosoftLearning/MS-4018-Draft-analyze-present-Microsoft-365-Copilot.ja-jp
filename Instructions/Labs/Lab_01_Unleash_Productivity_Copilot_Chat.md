@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'ラボ 1: Copilot Chat を使用してインタビューを成功させる'
+  description: Microsoft 365 Copilot – Copilot Chat を使用してインタビューの準備をする
+  level: Lab 100
+  duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # ラボ 1 - Copilot Chat を使用して面接試験に合格する
 
 あなたは、中規模のメディア主導会社である Contoso の職のために採用面接を行っているとします。 あなたは、採用マネージャーとメールでコミュニケーションを取ってきました。 これから、面接の準備をし、一緒に仕事をするチームの詳細を確認し、尋ねられる可能性のある質問に対する回答の下書きを作成します。 このラボでは、準備を整えて自信を持てるようにする手順について説明します。

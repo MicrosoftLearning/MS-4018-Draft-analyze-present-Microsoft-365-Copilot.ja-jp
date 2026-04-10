@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'ラボ 4: コラボレーションを最初から最後まで管理する'
+  description: Microsoft 365 Copilot - Copilot in Outlook がチームとのコラボレーションの管理にどのように役立つかを学習します。
+  level: Lab 100
+  duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # ラボ 4 - コラボレーションを最初から最後まで管理する
 
 あなたは Contoso のマネージャーだとします。 チームは効果的なコミュニケーションを利用して共同作業を行い、目標を達成しています。 Contoso Connect 製品発売の新しいアイデアの下にチームを結束させたいと考えており、製品の発売期限前にこのアイデアを取り入れる方法についてチームにメッセージを送信する必要があります。 Copilot を使用してメッセージの下書き、書き換え、調整を行い、メッセージが明確、簡潔かつプロフェッショナルであるようにします。 次に、Copilot in Outlook を使用して会議をスケジュールします。

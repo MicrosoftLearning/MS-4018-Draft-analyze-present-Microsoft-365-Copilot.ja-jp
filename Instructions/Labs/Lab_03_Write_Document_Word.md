@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'ラボ 3: Copilot in Word を使用してドキュメントの下書き、改善、共有を行う'
+  description: Microsoft 365 Copilot - Copilot in Word を使用して文書を作成し、編集し、共有します。
+  level: Lab 100
+  duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # ラボ 3 - Copilot in Word を使用して、ドキュメントの下書き、改善、共有を行う
 
 あなたはプロジェクト マネージャーとして、会社の新製品である Mystic Spice Premium Chai Tea の包括的なプロジェクト レポートを作成する必要があるとします。 このラボでは、Microsoft Word を使用してレポートの下書きを作成し、読みやすくするためにテキストを表に変換し、明確で簡潔なコンテンツにするために文書を要約します。
