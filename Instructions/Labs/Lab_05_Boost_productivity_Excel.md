@@ -1,3 +1,15 @@
+---
+lab:
+  title: 'ラボ 5: Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上させる'
+  description: Microsoft 365 Copilot – Copilot in Excel を使用して、売上データの探索と分析を行う方法を確認します。
+  level: Lab 100
+  duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+---
+
 # ラボ 5 - Copilot in Excel を使用してデータ主導の意思決定を行い、生産性を向上する
 
 あなたは Contoso の営業マネージャーであるとします。 あなたの主な責任は、売上データを分析し、会社の業績向上に役立つ傾向を特定することです。 このハンズオン ラボでは、Copilot in Excel を使用して、Contoso のチャイ製品の売上データのさまざまな側面を調査および分析します。
@@ -16,7 +28,7 @@
 
 1. OneDrive にアップロードしたサンプル ファイル (Contoso Chai Tea market trends 2023.xlsx) を開きます。
 
-1. **[ホーム]** タブの **Copilot** アイコンからドロップダウン メニューを選択します。そこから、**[アプリ スキル]** オプションを選択します。
+1. **[ホーム]** タブの右端にある **[Copilot]** アイコンを選択します。 
 
 1. 次のプロンプトを入力します。
 
